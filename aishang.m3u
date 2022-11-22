@@ -2,7 +2,7 @@
 
 #EXTINF:-1,CCTV1
 
-http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8
 
 #EXTINF:-1,CCTV2
 
@@ -79,13 +79,9 @@ http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1,浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-#EXTINF:-1,CNN
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:-1,Love Nature
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1,安徽卫视
-http://39.134.67.108/PLTV/88888888/224/3221225925/1.m3u8
+#EXTINF:-1,湖南卫视
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240130_1/playlist.m3u8
 #EXTINF:-1,北京卫视
-http://39.134.67.108/PLTV/88888888/224/3221225931/1.m3u8
-#EXTINF:-1,四川卫视
-http://39.134.67.108/PLTV/88888888/224/3221225970/1.m3u8
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240129_1/playlist.m3u8
+#EXTINF:-1,黑龙江卫视
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240131_1/playlist.m3u8
